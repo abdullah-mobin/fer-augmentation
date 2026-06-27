@@ -21,3 +21,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+.puku
+.venv
+fer_data
+fer_data_aug_512
+fer_data_raw_512
+
